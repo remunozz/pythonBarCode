@@ -1,6 +1,6 @@
 # Barcode generation using Python
 
-Esta aplicación fue creada por Raúl Muñoz
+Esta programa fue creada por Raúl Muñoz guiado por clcoding.com
 
 # Ejecutar la Aplicación
 
